@@ -50,7 +50,8 @@ where they are suppose to enter emailid and after that they will get resetlink o
 The home page shows the options to the student and admin to view various sections and pages to 
 perform activities as per their authorities.
 
-![Screenshot (21)](https://user-images.githubusercontent.com/85822746/231601643-8f3d22d2-ccb7-45c9-b549-7cdf69b2cba4.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/85822746/231608242-01174b14-2dd7-4e5b-a222-af89da664f0f.png)
+
 
 
 ## Prep section
