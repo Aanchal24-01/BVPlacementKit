@@ -1,7 +1,7 @@
 # BVPlacementKit
 *BVPlacementKit* is a website for the B.Tech. students of
-Banasthali Vidyapith  who can seek guidance regarding internships and placements and also able to know about the Company details which use to come in Banasthali .They  will also be able add their own experience ,resources(Dsa,CORE sUbject).Through this they can  build their knowledge in the field of computer science and technology.
-Considering the situation that arises every year, where students are confused and anxious regarding internships and placements or are facing difficulty in finding from where to start and what to start we have made this Project.
+Banasthali Vidyapith  who can seek guidance regarding internships and placements and also will be able to know about the Company details which is  use to come in Banasthali .They  will also be able add their own experience ,resources(Dsa,CORE sUbject).Through this they can  build their knowledge in the field of computer science and technology.
+Considering the situation that arises every year, where students are confused and anxious regarding internships and placements or are facing difficulty in finding from where to start and what to start we have made this Project to bring the difference.
 
 ## Landing Page 
 
