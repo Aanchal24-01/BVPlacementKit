@@ -168,4 +168,10 @@ This page allows the student/admin to view comapny details and delete it
 
 ![Screenshot (70)](https://user-images.githubusercontent.com/85822746/231607570-2ccb0299-ff69-4988-b443-485419766f7e.png)
 
+## Team section
+![Screenshot (71)](https://github.com/Aanchal24-01/BVPlacementKit/assets/85822746/e49d17d0-566f-4277-a71b-e58ee240cb95)
+
+
+
+
 
