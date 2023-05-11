@@ -164,7 +164,7 @@ This page allows the student/admin to view comapny details and delete it
 ![Screenshot (66)](https://user-images.githubusercontent.com/85822746/231607212-4655ee07-6d7b-492a-b551-11465cb2eb3b.png)
 
 
-- **Delete CompanyDetails Page For Admin
+- **Delete CompanyDetails Page For Admin**
 
 ![Screenshot (70)](https://user-images.githubusercontent.com/85822746/231607570-2ccb0299-ff69-4988-b443-485419766f7e.png)
 
